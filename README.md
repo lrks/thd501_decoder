@@ -2,7 +2,7 @@
 「シチズン (CITIZEN) コードレス温湿度計 THD501」の無線信号をデコードするプログラムです。
 受信デバイスはRTL-SDRドングルを前提としています。
 
-詳細: https://telecotele.com/projects/ （記事作成中）
+詳細: https://telecotele.com/projects/thd501-decoder/
 
 ## ディレクトリ/ファイルの説明
 ```
